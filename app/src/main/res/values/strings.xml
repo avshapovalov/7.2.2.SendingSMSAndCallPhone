@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intents2</string>
+    <string name="push_me">Push me</string>
+    <string name="send">Отправить SMS</string>
+    <string name="call">Позвонить</string>
+    <string name="gallary">Gallary</string>
+    <string name="enter_text">Введите текст сообщения</string>
+    <string name="enter_phone_number">Введите номер телефона</string>
+</resources>
